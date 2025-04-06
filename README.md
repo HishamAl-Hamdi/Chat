@@ -3,7 +3,7 @@ Names of Group members:
 2-Wadhah Ameen
 3-Khaled Al-Haj
 
-[Youtube Link here](https://youtu.be/0fMv2lmzJtY?si=KOR4DlaPOl9_d756))
+[Youtube Link here](https://youtu.be/0fMv2lmzJtY?si=KOR4DlaPOl9_d756)
 
 Chat Application with Encryption
 This is a Python-based chat application that allows multiple clients to communicate securely over a network. The application uses RSA for key exchange and AES for message encryption, along with a Caesar cipher for additional message obfuscation.
